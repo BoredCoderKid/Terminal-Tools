@@ -1,0 +1,14 @@
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/Terminal+.GeneratedMSBuildEditorConfig.editorconfig
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/Terminal+.AssemblyInfoInputs.cache
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/Terminal+.AssemblyInfo.cs
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/Terminal+.csproj.CoreCompileInputs.cache
+/home/hotdogwarrior/Terminal+/bin/Debug/net10.0/Terminal+
+/home/hotdogwarrior/Terminal+/bin/Debug/net10.0/Terminal+.deps.json
+/home/hotdogwarrior/Terminal+/bin/Debug/net10.0/Terminal+.runtimeconfig.json
+/home/hotdogwarrior/Terminal+/bin/Debug/net10.0/Terminal+.dll
+/home/hotdogwarrior/Terminal+/bin/Debug/net10.0/Terminal+.pdb
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/Terminal+.dll
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/refint/Terminal+.dll
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/Terminal+.pdb
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/Terminal+.genruntimeconfig.cache
+/home/hotdogwarrior/Terminal+/obj/Debug/net10.0/ref/Terminal+.dll
